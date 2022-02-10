@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5221106.css",
+    "main.js": "/static/js/main.b5ade269.js",
+    "static/js/787.8d306759.chunk.js": "/static/js/787.8d306759.chunk.js",
+    "static/media/esobeIsaac.jpg": "/static/media/esobeIsaac.0af2e639dd7192e6b259.jpg",
+    "static/media/victor.JPG": "/static/media/victor.513f74670713342a7226.JPG",
+    "static/media/okeugoChamberlyn.JPG": "/static/media/okeugoChamberlyn.b069cb55412fdaf2826b.JPG",
+    "static/media/onyeziOdamaIzreal.JPG": "/static/media/onyeziOdamaIzreal.464521f4c6474facf3dd.JPG",
+    "static/media/kaluNkemakolam.JPG": "/static/media/kaluNkemakolam.9850ae3b8698a8c3a72a.JPG",
+    "static/media/eziefulaShalom.JPG": "/static/media/eziefulaShalom.9baeccf8fed28a3e0a76.JPG",
+    "static/media/humphreyJames.JPG": "/static/media/humphreyJames.8f52be60d701a804e1d4.JPG",
+    "static/media/kingsmarkCSunday.JPG": "/static/media/kingsmarkCSunday.b0d1e8b3e90de3712d9b.JPG",
+    "static/media/logo.png": "/static/media/logo.2d890e9cfb049c534972.png",
+    "static/media/missing1.png": "/static/media/missing1.b0dd7cd2baa795a66930.png",
+    "static/media/amaka.jpg": "/static/media/amaka.872df920d892eb130204.jpg",
+    "static/media/mercy.jpg": "/static/media/mercy.b7277f11dfe2f0cdf360.jpg",
+    "static/media/chidinma.jpg": "/static/media/chidinma.eff533f3c1131ee50588.jpg",
+    "static/media/janeth.jpg": "/static/media/janeth.0931c4d892c98e7de547.jpg",
+    "static/media/success.jpg": "/static/media/success.601cfd73e6116e9fc5a0.jpg",
+    "static/media/justin.jpg": "/static/media/justin.38d23041f675704ce279.jpg",
+    "index.html": "/index.html",
+    "main.c5221106.css.map": "/static/css/main.c5221106.css.map",
+    "main.b5ade269.js.map": "/static/js/main.b5ade269.js.map",
+    "787.8d306759.chunk.js.map": "/static/js/787.8d306759.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5221106.css",
+    "static/js/main.b5ade269.js"
+  ]
+}
